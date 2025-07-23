@@ -1,2 +1,2 @@
-# ai-accelerator-walmart-scratch
-All testing code for Walmart AI Course goes here
+# ai-accelerator-samples-scratch
+All testing code for AI Accelerator Course goes here
