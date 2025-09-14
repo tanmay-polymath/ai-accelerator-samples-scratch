@@ -1,6 +1,6 @@
 # 📝 Text Summarizer (Streamlit + OpenAI)
 
-A tiny, beginner-friendly web app to summarize any text using OpenAI models — built with **Streamlit** and the official **OpenAI** Python SDK.
+A beginner-friendly web app to summarize any text using OpenAI models — built with **Streamlit** and the official **OpenAI** Python SDK.
 
 ---
 
