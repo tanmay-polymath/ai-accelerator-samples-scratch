@@ -7,7 +7,7 @@ A beginner-friendly web app to summarize any text using OpenAI models — built 
 ## 🚀 Features
 - Paste text → get a clean summary (short / medium / long / custom words)
 - Choose model: `gpt-4o-mini` (fast, cheaper) or `gpt-4o` (higher quality)
-- Simple UI, minimal code, no streaming (keeps things easy)
+- Simple Streamlit UI
 
 ---
 
