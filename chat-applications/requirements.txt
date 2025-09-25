@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+openai
+python-dotenv
+httpx
+PyPDF2
