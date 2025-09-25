@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Start the server:
 ```bash
-uvicorn fastapi_service.chat_api:app --reload
+uvicorn chat_api:app --reload
 ```
 
 - API base: `http://127.0.0.1:8000`
@@ -145,9 +145,5 @@ Features:
 - API Docs:  
   `http://127.0.0.1:8000/docs`
 
-- Health check:  
-  `http://127.0.0.1:8000/healthz`
-
 ---
 
-Happy coding! 🚀
